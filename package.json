@@ -1,0 +1,9 @@
+{
+  "name": "elm-potrace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "potrace-js": "^0.0.6"
+  }
+}
